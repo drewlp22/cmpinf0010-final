@@ -2,23 +2,9 @@
 
 A CMPINF0010 project determining the best neighborhood in Pittsburgh based off of its ability to hold a street race.
 
-## Git Commands
-Sync Jupyter with most recent git changes:
 
-`git pull https://github.com/drewlp22/cmpinf0010-final.git main`
-
-
-Adding changes to git repository:
-
-`git add <Notebook Name>`
-
-`git commit -m "<Commit Message Here>"`
-
-`git push`
-
-
-
-### Team Name: 
+### Team Name:
+Pittsburgh Street Racing Committee
 
 ### Team Members:
 
